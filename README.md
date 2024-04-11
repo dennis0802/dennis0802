@@ -8,7 +8,7 @@
 - 📫 How to reach me: [dennisdao2001@gmail.com](mailto:dennisdao2001@gmail.com)
 - 📫 My portfolio: [dennis0802.github.io](dennis0802.github.io)
 
-## Recent Tools I've Used
+## Tools I've Recently Used
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
