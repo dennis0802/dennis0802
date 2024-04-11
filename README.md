@@ -5,7 +5,7 @@
 - 🔭 I've worked in **IT and Software Development** at _The Narmco Group_ and _WDBA!_
 - 🔭 I've also worked as a **Teaching Assistant** for the University of Windsor's _School of Computer Science_
 - 📫 How to reach me: [dennisdao2001@gmail.com](mailto:dennisdao2001@gmail.com)
-- 📫 My portfolio: [dennis0802.github.io]
+- 📫 My portfolio: [dennis0802.github.io](dennis0802.github.io)
 
 ## Languages I've Used
 [C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
