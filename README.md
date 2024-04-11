@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+
 - ✨ I enjoy making things to have fun with
 - 💬 I'm currently searching for a full-time position!
 - 🌱 I'm currently learning SpringBoot
@@ -8,7 +9,7 @@
 - 📫 My portfolio: [dennis0802.github.io](dennis0802.github.io)
 
 ## Languages I've Used
-[C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
 <!--
 **dennis0802/dennis0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
