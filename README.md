@@ -6,7 +6,7 @@
 - 🔭 I've worked in **IT and Software Development** at _The Narmco Group_ and _WDBA!_
 - 🔭 I've also worked as a **Teaching Assistant** for the University of Windsor's _School of Computer Science_
 - 📫 How to reach me: [dennisdao2001@gmail.com](mailto:dennisdao2001@gmail.com)
-- 📫 My portfolio: [dennis0802.github.io](dennis0802.github.io)
+- 📫 My portfolio: [https://dennisdao.servehttp.com](https://dennisdao.servehttp.com)
 
 ## Tools I've Recently Used
 ### Languages
