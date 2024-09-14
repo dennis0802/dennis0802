@@ -7,6 +7,7 @@
 - 🔭 I've also worked as a **Teaching Assistant** for the University of Windsor's _School of Computer Science_
 - 📫 How to reach me: [dennisdao2001@gmail.com](mailto:dennisdao2001@gmail.com)
 - 📫 My portfolio: [https://dennisdao.servehttp.com](https://dennisdao.servehttp.com)
+- ⚡ Fun fact: I created an [MTG companion site](https://dennisdao.servehttp.com/mtgHome) to better support large groups (6-15) players!
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dennis0802&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/dennis0802/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennis0802&layout=compact&theme=merko)](https://github.com/dennis0802/github-readme-stats)
 
