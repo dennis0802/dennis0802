@@ -8,6 +8,8 @@
 - 📫 How to reach me: [dennisdao2001@gmail.com](mailto:dennisdao2001@gmail.com)
 - 📫 My portfolio: [https://dennisdao.servehttp.com](https://dennisdao.servehttp.com)
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dennis0802&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/dennis0802/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennis0802&layout=compact&theme=merko)](https://github.com/dennis0802/github-readme-stats)
+
 ## Tools I've Recently Used
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
