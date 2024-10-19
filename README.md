@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 - ✨ I enjoy making things to have fun with
-- 💬 I'm currently searching for a full-time position!
-- 🌱 I'm currently learning SpringBoot and React
-- 🔭 I've worked in **IT and Software Development** at _The Narmco Group_ and _WDBA!_
+- 💬 I'm currently working as a Software Programmer at _The Narmco Group_!
+- 🌱 I'm currently learning React
+- 🔭 I've worked in **IT and Software Development** at _WDBA!_
 - 🔭 I've also worked as a **Teaching Assistant** for the University of Windsor's _School of Computer Science_
 - 📫 How to reach me: [dennisdao2001@gmail.com](mailto:dennisdao2001@gmail.com)
 - 📫 My portfolio: [https://dennisdao.servehttp.com](https://dennisdao.servehttp.com)
